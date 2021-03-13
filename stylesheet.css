@@ -1,0 +1,109 @@
+
+
+.backround{
+    background-color:#aec5e0;    
+}
+
+.backround_container{
+    background-color:rgba(248, 248, 248, 0.637)
+}
+
+.header{
+    font-size: 30px;
+    color:white;
+    margin-left: 10px;
+    padding: 4mm;
+}
+
+.center{
+    text-align: center;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+.navbar-dark{
+    background-color:#455579 ;
+}
+.box {
+    height: 400px;
+    padding: 20px;
+    color: #fff;
+    background: rgb(250, 250, 250);
+  }
+
+  
+  .boxlayout {
+    background-color: rgba(242, 242, 242, 0.963) ;
+    padding: 10px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 4px 8px #8888;
+  }
+
+  .boxlayout2 {
+    background-color: rgba(242, 242, 242, 0.963) ;
+    padding: 10px;
+    margin-left: .6em;
+    padding: 10px;
+    box-shadow: 2px 4px 8px #8888;
+    
+  }
+
+
+  .left-temp{
+    padding: 10px;
+    float: left;
+    margin-right: 1em;
+  }
+
+  .fig-size-right{
+    height:10em;
+    width: 12em;
+    box-shadow: 2px 2px 8px #8888;
+  }
+
+  .fig-size-left{
+    height: 15em;
+    width: 16em;
+    box-shadow: 2px 2px 8px #8888;
+    
+  }
+
+  .fig-size-right-comp {
+    height:20em;
+    width: 30em;
+    box-shadow: 2px 2px 8px #8888;
+  }
+
+  .fig-size-right-temp {
+    height:20em;
+    width: 30em;
+    box-shadow: 2px 2px 8px #8888;
+  }
+
+
+  .grad {
+    background-image: linear-gradient(to top, #aec5e0, #97bae5);
+  }
+
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+
+  .responsive-ind {
+    width: 85%;
+    height: auto;
+  }
+
+  /* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+.curs {
+  cursor: pointer;
+
+}
+
+.comparison img:hover {
+  box-shadow: 0 0 25px 5px #aec5e0; 
+}
